@@ -1,0 +1,32 @@
+body{
+    background-color: skyblue;
+}
+#h1,#h2,#h3,#h4,#h5{
+    color:  teal;
+    size: 4cm;
+    background-color:lightgray ;
+}
+#H{
+    color: teal;
+    size: 6px;;
+    background-color:lightgray ; 
+}
+.a,.b,.c,.d,.e{
+    color:chocolate;
+    size: 6cm;
+    background: lightgrey;
+}
+.para{
+    color: brown;
+    background-color:burlywood;
+    size: 20mm;
+}
+.f,.g{
+    color:black;
+    size: 20mm;
+}
+.h,.i{
+    color: darkblue;
+    size: 20mm;
+
+}
